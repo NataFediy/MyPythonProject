@@ -1,0 +1,12 @@
+Tue Jul 03 13:04:46 2018   this is alog  message1
+Tue Jul 03 13:04:46 2018   this is another message2
+Tue Jul 03 13:04:46 2018   Next message2
+Tue Jul 03 13:32:24 2018   this is alog  message1
+Tue Jul 03 13:32:24 2018   this is another message2
+Tue Jul 03 13:32:24 2018   Next message2
+Thu Jul 05 23:19:37 2018   this is alog  message1
+Thu Jul 05 23:19:37 2018   this is another message2
+Thu Jul 05 23:19:37 2018   Next message2
+Thu Jul 05 23:20:27 2018   this is alog  message1
+Thu Jul 05 23:20:27 2018   this is another message2
+Thu Jul 05 23:20:27 2018   Next message2

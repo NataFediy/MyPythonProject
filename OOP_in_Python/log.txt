@@ -1,0 +1,5 @@
+Mon Jul 02 19:37:29 2018   this is alog  message
+Mon Jul 02 19:37:29 2018   this is another message
+Mon Jul 02 19:41:50 2018   this is alog  message
+Mon Jul 02 19:41:50 2018   this is another message
+Mon Jul 02 19:41:50 2018   Next message
